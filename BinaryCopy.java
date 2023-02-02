@@ -1,10 +1,10 @@
-class Binary 
+class BinaryCopy
 {
       public static void main (String args [])
       {
             /*
 
-                  CODE UPDATED inside BINRY
+                  This is copy of Binary Code
 
             */
 
